@@ -1,0 +1,4 @@
+- Pepper
+- Salt
+- Dawn
+- Paper Towels
